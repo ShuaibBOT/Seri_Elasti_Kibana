@@ -1,0 +1,6 @@
+@Seri_Elasti_Kibana_HostAddress = http://localhost:5182
+
+GET {{Seri_Elasti_Kibana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
